@@ -11,3 +11,16 @@ C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.csproj.CoreCompile
 C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.csproj.CopyComplete
 C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.dll
 C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.pdb
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\bin\Debug\Replace.dll
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\bin\Debug\Replace.pdb
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\bin\Debug\Replace.dll.manifest
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\bin\Debug\Replace.vsto
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\obj\Debug\Replace.csprojAssemblyReference.cache
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\obj\Debug\Replace.Properties.Resources.resources
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\obj\Debug\Replace.Replace.resources
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\obj\Debug\Replace.csproj.GenerateResource.cache
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\obj\Debug\Replace.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\obj\Debug\Replace.csproj.CopyComplete
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\obj\Debug\Replace.dll
+C:\Users\Piotr\Documents\Repo\Sierotki\SourceCode\Replace\obj\Debug\Replace.pdb
