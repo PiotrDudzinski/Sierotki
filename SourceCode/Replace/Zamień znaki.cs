@@ -46,7 +46,7 @@ namespace Replace
 
             foreach (string character in ArrayOfCharacters)
             {
-                doc.Content.Find.Execute(character + "\u00A0", false, true, false, false, false, true, 1, false, character + " ", 2, false, false, false, false);
+                doc.Content.Find.Execute(" " + character + "\u00A0", false, true, false, false, false, true, 1, false," " + character + " ", 2, false, false, false, false);
             }
         }
     }

@@ -30,7 +30,7 @@
     <DefineConstants>VSTO40</DefineConstants>
     <IsWebBootstrapper>False</IsWebBootstrapper>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <PublishUrl>C:\Users\Piotr\Documents\Repo\Sierotki\</PublishUrl>
+    <PublishUrl>C:\Users\Piotr\Documents\Repo\Sierotki\InstallPackage\</PublishUrl>
     <InstallUrl />
     <TargetCulture>en</TargetCulture>
     <ApplicationVersion>1.0.0.2</ApplicationVersion>
