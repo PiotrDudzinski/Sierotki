@@ -1,0 +1,13 @@
+C:\Users\Piotr\source\repos\Replace\Replace\bin\Debug\Replace.dll
+C:\Users\Piotr\source\repos\Replace\Replace\bin\Debug\Replace.pdb
+C:\Users\Piotr\source\repos\Replace\Replace\bin\Debug\Replace.dll.manifest
+C:\Users\Piotr\source\repos\Replace\Replace\bin\Debug\Replace.vsto
+C:\Users\Piotr\source\repos\Replace\Replace\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.Properties.Resources.resources
+C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.Replace.resources
+C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.csproj.GenerateResource.cache
+C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.csproj.CopyComplete
+C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.dll
+C:\Users\Piotr\source\repos\Replace\Replace\obj\Debug\Replace.pdb
