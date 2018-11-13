@@ -1,5 +1,5 @@
 # Sierotki
-Prosty dodatek do Word’a pozwalający jednym kliknięciem pozbyć się sierotek. 
+Prosty dodatek do Word’a pozwalający jednym kliknięciem pozbyć się sierotek, ale tylko z końca linii.
 
 ![](Images/Capture.PNG)
 
